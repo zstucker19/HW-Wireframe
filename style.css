@@ -25,17 +25,32 @@ nav {
 	border: 1px solid #ebebeb;
 }
 
-article {
+#article {
 	background-color: #777;
 }
 
-h2 {
+article {
+	background-color: #777;
+	width: 450px;
+	margin: 0 auto;
+	height: 300px;
+}
+
+#a1 {
+	color: #ebebeb;
+}
+
+h2{
 	background-color: #ebebeb;
+	width: 400px;
+	margin: 0 auto;
 }
 
 p {
 	background-color: #ebebeb;
 	margin-top: -15px;
+	width: 400px;
+	margin: 0 auto;
 }
 
 aside {
